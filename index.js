@@ -41,7 +41,7 @@ if (name1 < name2) {
 } else {
   console.log("What?! You both have the same name?");
 }
-//
+
 // let namearray = [name1, name2]
 
 // for (let j = 0; j<namearray.length; j++) {
